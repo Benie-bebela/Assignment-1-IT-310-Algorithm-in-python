@@ -4,8 +4,11 @@
 print("///////////////////////////////Problem 1////////////////////////////////////////////")
 
 def main():# this line is defining the main function
+
     food_list = ['Plantain', 'Rice', 'beans', 'spinach']#creating the list of my favorite foods
+    
     for food in food_list:#looping through the food list
+    
         print(food) #printing each item from the list
 
 
@@ -48,8 +51,11 @@ print("Take your "   +  adjective   + " " +   noun    + " and "  +  verb + " at 
 
 print("/////////////////////////////////Problem 5/////////////////////////////////////////////")
 light_speed= 186000 # Initializing the value of lightspeed to its identifier
+
 distance = 34000000#Initializing the value of distance to its identifier
+
 time= distance/light_speed# Formula for the time
+
 
 print(str(time) + " seconds ")#Displaying the final result after concatenating the 2 strings
 
