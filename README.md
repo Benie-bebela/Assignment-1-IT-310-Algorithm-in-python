@@ -13,6 +13,7 @@ def main():# this line is defining the main function
 
 
 main()#end of main method
+
 print("///////////////////////////////Problem 2//////////////////////////////////////////")
 
 first_name = input("What's your first name?")# Prompting the user to enter his/her firstname using input
@@ -50,6 +51,7 @@ print("Take your "   +  adjective   + " " +   noun    + " and "  +  verb + " at 
 #Displaying the Hello message using concatenation
 
 print("/////////////////////////////////Problem 5/////////////////////////////////////////////")
+
 light_speed= 186000 # Initializing the value of lightspeed to its identifier
 
 distance = 34000000#Initializing the value of distance to its identifier
