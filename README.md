@@ -33,12 +33,19 @@ average = (number_of_hits/number_at_bats)#Formula for the average in order to pr
 print(player_name + "'s" + " " +  "batting average is:" + str(average))#Displaying the player batting average using the print function
 
 print("////////////////////////////////////Problem 4//////////////////////////////////////////")
+
 noun = input("Enter a noun:")# Prompting the user to enter a noun using input
+
 verb = input("Enter a verb:")# Prompting the user to enter a verb using input
+
 adjective = input("Enter an adjective:")# Prompting the user to enter an adjective using input
+
 place = input("Enter a place:")# Prompting the user to enter  a place using input
+
 print("Take your "   +  adjective   + " " +   noun    + " and "  +  verb + " at the " +  place  +  "!")
+
 #Displaying the Hello message using concatenation
+
 print("/////////////////////////////////Problem 5/////////////////////////////////////////////")
 light_speed= 186000 # Initializing the value of lightspeed to its identifier
 distance = 34000000#Initializing the value of distance to its identifier
